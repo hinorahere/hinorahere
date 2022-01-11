@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Nora
-- 👀 I’m interested in Django and Mobile App Development
+- 👀 I’m interested in ![icons8-python](https://user-images.githubusercontent.com/25420200/148999779-7a87985d-1edd-4212-88d9-9c245b6afae3.gif) Django and Mobile App Development
 - 📫 How to reach me ...
