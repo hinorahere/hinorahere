@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Nora
-- 👀 I’m interested in Django and Mobile App development
+- 👀 I’m interested in Django and Mobile App Development
 - 📫 How to reach me ...
