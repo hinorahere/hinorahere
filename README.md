@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @hinorahere
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Nora
+- 👀 I’m interested in Django and Mobile App development
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me ...
-
-<!---
-hinorahere/hinorahere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
