@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Nora
 - 👀 I’m interested in Django and Mobile App development
-- 🌱 I’m currently learning Flutter
 - 📫 How to reach me ...
